@@ -24,6 +24,8 @@ This project is a GUI-based Image Steganography tool built using Python and Tkin
 - The tool retrieves and displays the hidden message.
  
 ## Screenshots
+![Screenshot 2025-02-24 212415](https://github.com/user-attachments/assets/5317a14d-605a-4132-94a9-49caabbdbe6e)
+
 
 
 
